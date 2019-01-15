@@ -235,11 +235,10 @@ h2 {
 
 /*Stecknadeln für Personenkarte*/
 
-/*
 #Ppin
 {
 	position: absolute;
-	top: 1389px;
+	top: 1189px;
 	left: 612px;
 	margin-bottom: 100px;
 	z-index:2;
@@ -248,7 +247,7 @@ h2 {
 #Ppin2
 {
 	position: absolute;
-	top: 1386px;
+	top: 1186px;
 	left: 615px;
 	margin-bottom: 100px;
 	z-index:2;
@@ -257,7 +256,7 @@ h2 {
 #Ppin3
 {
 	position: absolute;
-	top: 1395px;
+	top: 1195px;
 	left: 615px;
 	margin-bottom: 100px;
 	z-index:2;
@@ -265,7 +264,7 @@ h2 {
 #Ppin4
 {
 	position: absolute;
-	top: 1426px;
+	top: 1126px;
 	left: 726px;
 	margin-bottom: 100px;
 	z-index:2;
@@ -274,7 +273,7 @@ h2 {
 #Ppin5
 {
 	position: absolute;
-	top: 1601px;
+	top: 1201px;
 	left: 659px;
 	margin-bottom: 100px;
 	z-index:2;
@@ -283,7 +282,7 @@ h2 {
 #Ppin6
 {
 	position: absolute;
-	top: 1277px;
+	top: 1077px;
 	left: 719px;
 	margin-bottom: 100px;
 	z-index:2;
@@ -292,11 +291,11 @@ h2 {
 #Ppin7
 {
 	position: absolute;
-	top: 1375px;
+	top: 1175px;
 	left: 543px;
 	margin-bottom: 100px;
 	z-index:2;
-}*/
+}
 
 /*Stecknadeln für Personenkarte*/
 #Zpin
