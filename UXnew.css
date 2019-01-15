@@ -235,7 +235,7 @@ h2 {
 
 /*Stecknadeln für Personenkarte*/
 
-
+/*
 #Ppin
 {
 	position: absolute;
@@ -296,7 +296,7 @@ h2 {
 	left: 543px;
 	margin-bottom: 100px;
 	z-index:2;
-}
+}*/
 
 /*Stecknadeln für Personenkarte*/
 #Zpin
@@ -449,6 +449,8 @@ h2 {
 	background-color: #0c2659ff;
 	color: #ddb00dff;
     transform: rotateY(180deg);
+	overflow-x: hidden;
+	overflow-Y: scroll;
 }
 
 #memory {
