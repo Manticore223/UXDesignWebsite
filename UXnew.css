@@ -34,6 +34,18 @@ h2 {
 
 }
 
+#Quellen
+{
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+#quellenListe
+{
+	display:none;
+}
+
+
 /* Homepage */ 
 
 #landingpage {
@@ -227,8 +239,8 @@ h2 {
 #Ppin
 {
 	position: absolute;
-	top: 1000px;
-	left: 670px;
+	top: 1389px;
+	left: 612px;
 	margin-bottom: 100px;
 	z-index:2;
 }
@@ -236,8 +248,8 @@ h2 {
 #Ppin2
 {
 	position: absolute;
-	top: 880px;
-	left: 820px;
+	top: 1386px;
+	left: 615px;
 	margin-bottom: 100px;
 	z-index:2;
 }
@@ -245,8 +257,43 @@ h2 {
 #Ppin3
 {
 	position: absolute;
-	top: 950px;
-	left: 880px;
+	top: 1395px;
+	left: 615px;
+	margin-bottom: 100px;
+	z-index:2;
+}
+#Ppin4
+{
+	position: absolute;
+	top: 1426px;
+	left: 726px;
+	margin-bottom: 100px;
+	z-index:2;
+}
+
+#Ppin5
+{
+	position: absolute;
+	top: 1601px;
+	left: 659px;
+	margin-bottom: 100px;
+	z-index:2;
+}
+
+#Ppin6
+{
+	position: absolute;
+	top: 1277px;
+	left: 719px;
+	margin-bottom: 100px;
+	z-index:2;
+}
+
+#Ppin7
+{
+	position: absolute;
+	top: 1375px;
+	left: 543px;
 	margin-bottom: 100px;
 	z-index:2;
 }
